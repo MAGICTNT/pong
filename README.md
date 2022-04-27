@@ -3,7 +3,7 @@
 ***
 
 <p align="left">
-  Un petit code du jeux rétro Pong avec l'utilisation d'une balise canvas
+  Un petit code du jeux rétro Pong avec l'utilisation d'une balise canvas <br>
   A little code of the old game Pong with Canvas utilisation
 
 ***
