@@ -1,41 +1,25 @@
-<h1 align="center">Canvas Pong</h1>
 
-***
+# Canvas Pong
 
-<h3 align="center">Français</h3>
+## // Français
 
-***
+Un petit code du jeux rétro Pong avec l'utilisation d'une balise canvas.
 
-<p align="left">
-  Un petit code du jeux rétro Pong avec l'utilisation d'une balise canvas
-
-***
-  
-Pour une copie rapide du code faite :
-  
-</p>
-
+```git
+$ git clone https://github.com/MAGICTNT/pong.git
+$ cd ../path/to/the/file/pong
 ```
+### Code en fonction
+[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/pong)
+
+## // English
+
+A little code of the old game Pong with Canvas utilisation.
+
+```git
 $ git clone https://github.com/MAGICTNT/pong.git
 $ cd ../path/to/the/file/pong
 ```
 
-***
-
-<h3 align="center">English</h3>
-
-***
-
-<p align="left">
-  A little code of the old game Pong with Canvas utilisation
-
-***
-
-  For a quick copy of the project do:
-  
-</p>
-
-```
-$ git clone https://github.com/MAGICTNT/pong.git
-$ cd ../path/to/the/file/pong
-```
+### Code in fonction
+[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/pong)
