@@ -16,8 +16,8 @@ Pour une copie rapide du code faite :
 </p>
 
 ```
-$ git clone https://github.com/MAGICTNT/Matrix__canvas.git
-$ cd ../path/to/the/file/Matrix__canvas
+$ git clone https://github.com/MAGICTNT/pong.git
+$ cd ../path/to/the/file/pong
 ```
 
 ***
@@ -36,6 +36,6 @@ $ cd ../path/to/the/file/Matrix__canvas
 </p>
 
 ```
-$ git clone https://github.com/MAGICTNT/Matrix__canvas.git
-$ cd ../path/to/the/file/Matrix__canvas
+$ git clone https://github.com/MAGICTNT/pong.git
+$ cd ../path/to/the/file/pong
 ```
