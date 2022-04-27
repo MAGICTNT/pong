@@ -4,9 +4,12 @@
 
 <p align="left">
   Un petit code du jeux rétro Pong avec l'utilisation d'une balise canvas
+  A little code of the old game Pong with Canvas utilisation
 
 ***
-Pour une copie rapide faite :
+Pour une copie rapide du code faite :
+For a quick copy of the project do:
+  
 </p>
 
 ```
