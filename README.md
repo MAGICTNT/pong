@@ -7,8 +7,22 @@
   A little code of the old game Pong with Canvas utilisation
 
 ***
-Pour une copie rapide du code faite :
+Pour une copie rapide du code faite : <br>
 For a quick copy of the project do:
+  
+</p>
+
+```
+$ git clone https://github.com/MAGICTNT/Matrix__canvas.git
+$ cd ../path/to/the/file
+```
+
+<p align="left">
+  A little code of the old game Pong with Canvas utilisation
+
+***
+
+  For a quick copy of the project do:
   
 </p>
 
