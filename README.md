@@ -1,10 +1,9 @@
 <h1 align="center">Canvas Pong</h1>
-## Canvas Pong
+
 ***
+
 <p align="left">
   Un petit code du jeux rétro Pong avec l'utilisation d'une balise canvas
-
-
 
 ***
 Pour une copie rapide faite :
