@@ -10,7 +10,7 @@ $ git clone https://github.com/MAGICTNT/pong.git
 $ cd ../path/to/the/file/pong
 ```
 ### Code en fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/pong)
+[Live Code](#)
 
 ## // English
 
@@ -22,4 +22,4 @@ $ cd ../path/to/the/file/pong
 ```
 
 ### Code in fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/pong)
+[Live Code](#)
